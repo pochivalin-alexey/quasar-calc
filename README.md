@@ -1,6 +1,5 @@
-# Quasar App (quasar-calc)
+# Simple calculator by Quasar.js
 
-Simple calculator by Quasar.js  
 [demo](https://pochivalin-alexey.github.io/qc/)  
 <img width="320" src="https://github.com/pochivalin-alexey/quasar-calc/blob/master/src/statics/img/screenshot.jpg?raw=true">
 
