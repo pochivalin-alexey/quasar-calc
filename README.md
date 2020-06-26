@@ -1,6 +1,7 @@
 # Quasar App (quasar-calc)
 
 Simple calculator by Quasar.js
+[demo](https://pochivalin-alexey.github.io/qc/)
 
 ## Install the dependencies
 
